@@ -8,7 +8,7 @@ Custom User Model App for django Projects ( Email required user model )
 ```python
 INSTALLED_APPS = [
     # your apps
-  	'home.apps.HomeConfig',
+    'home.apps.HomeConfig',
 ]
 ```
 3. then add this line in the bottom of your settings.py file:
